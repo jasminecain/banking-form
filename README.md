@@ -11,28 +11,28 @@ touch index.html
 Build a form that accepts a loan application. It must have the following fields.
 
 1. Applicant first name
-2. Applicant middle initial
-3. Applicant last name
-4. Applicant address
-5. Applicant occupation
-6. Applicant employer
-7. Employer address
-8. Type of loan select element with these options:
-  i.Commercial
-  ii. Real estate
-  iii. Personal
-  iv. Mortgage
-9. Requested amount of loan
-10. Radio button elements for loan length
-  i. 5 years
-  ii. 15 years
-  iii. 30 years
-11. Checkbox group for special conditions
-  i. I have a down payment
-  ii. Out-of-state resident
-  iii. Married
-  iv. Loan will be co-signed
-12. A text area to allow for additional comments
-13. Applicant email address
-14. Applicant telephone number
-15. Applicant LinkedIn URL
+1. Applicant middle initial
+1. Applicant last name
+1. Applicant address
+1. Applicant occupation
+1. Applicant employer
+1. Employer address
+1. Type of loan select element with these options:
+    1. Commercial
+    1. Real estate
+    1. Personal
+    1. Mortgage
+1. Requested amount of loan
+1. Radio button elements for loan length
+    1. 5 years
+    1. 15 years
+    1. 30 years
+1. Checkbox group for special conditions
+    1. I have a down payment
+    1. Out-of-state resident
+    1. Married
+    1. Loan will be co-signed
+1. A text area to allow for additional comments
+1. Applicant email address
+1. Applicant telephone number
+1. Applicant LinkedIn URL
